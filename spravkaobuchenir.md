@@ -10,7 +10,7 @@
 # MarkDown | .md
  
 # Основной синтаксис Markdown
-
+```markdown
 ## Заголовки
 
 # H1
