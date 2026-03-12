@@ -1,4 +1,4 @@
-<img width="853" height="1035" alt="image" src="https://github.com/user-attachments/assets/8a83de4e-e3e5-48fa-8299-48f17ac3ed85" />**Тут теперь будет справочник по обучению.**
+**Тут теперь будет справочник по обучению.**
 
 # Git | GitHub
 
@@ -15,6 +15,7 @@
 - **git merge** - Интеграция изменений из одной ветки в другую.
 - **git diff** -  Просмотр различий между рабочим каталогом и областью хранения.
 - **git log** -   Отображение хронологического списка коммитов.
+![Снимок экрана от 2026-03-12 10-46-17 translated](https://github.com/user-attachments/assets/3da0cc68-ce73-4d79-95c1-cbbe3dc74131)
 
 # MarkDown | .md
  
